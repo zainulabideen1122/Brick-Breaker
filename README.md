@@ -1,4 +1,4 @@
-# Bounce_Ball
+# Brick-Breaker
 
 The game is consist of a simple menu to navigate different pages, it also has high score page, and instruction page.
 # Game Instructions:
